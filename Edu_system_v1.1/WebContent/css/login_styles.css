@@ -1,0 +1,33 @@
+/*
+登录页面的层叠样式表
+ */
+ 
+<style type="text/css">
+
+	.text1{
+		width:200px;
+		height:20px;
+	}
+	.btn1{
+		width:80px;
+		height:30px;
+		color:white;
+		background-color:#33CC66;
+		padding:0px;
+		border:0px;
+	}
+	.btn2{
+		width:80px;
+		height:30px;
+		color:white;
+		background-color:#D5E449;
+		padding:0px;
+		border:0px;
+	}
+	.find_pwd{
+		size:1px;
+		color:#1E90FF;
+	}
+	
+	
+</style>
