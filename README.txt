@@ -1,1 +1,1 @@
-这是一个基于网络的教学辅助系统，致力于创建一种新型的校园社交模式，推动互联网+传统教学模式的发展，促进师生交流沟通，以及开放性的学术问题的探讨。
+This is a web-based teaching assistance system, which aims at creating a new campus social networking mode, promoting the development of "Internet +" traditional teaching mode, promoting communication between teachers and students, and exploring open academic problems.
