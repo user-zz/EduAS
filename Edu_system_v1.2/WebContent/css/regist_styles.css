@@ -1,0 +1,26 @@
+<style type="text/css">
+		.txt1{
+			width:200px;
+			height:20px;
+	    }
+	    .txt2{
+	       	width:100px;
+		    height:20px;
+	    }
+	    .btn1_styles{
+			width:80px;
+			height:30px;
+			color:white;
+			background-color:#33CC66;
+			padding:0px;
+			border:0px;
+	    }
+		.btn2_styles{
+			width:80px;
+			height:30px;
+			color:white;
+			background-color:#D5E449;
+			padding:0px;
+			border:0px;
+		}    
+</style>
